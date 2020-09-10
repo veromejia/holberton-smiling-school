@@ -10,7 +10,7 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer
 
 ### WEB-PAGE 1
 
-<table align=center width=90%>
+<table align=center width=100%>
   <tr>
     <td>Desktop view</td>
     <td>Tablet view </td>
@@ -25,7 +25,7 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer
 
 ### WEB-PAGE 2
 
-<table align=center width=90%>
+<table align=center width=100%>
   <tr>
     <td>Desktop view</td>
     <td>Tablet view </td>
@@ -40,7 +40,7 @@ This webpage has been designed by Nicolas Philippot, UI/UX designer
 
  ### WEB-PAGE 3
 
-<table align=center width=90%>
+<table align=center width=100%>
   <tr>
     <td>Desktop view</td>
     <td>Tablet view </td>
