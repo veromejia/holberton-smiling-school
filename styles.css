@@ -33,9 +33,12 @@ a:hover {
     color: #C271FF !important;
 }
 
-::placeholder {
+.form-control::placeholder {
     color: white;
-  }
+    font-size: 0.8rem;
+    line-height: 0.8rem;
+}
+
 
 .navbar-toggler {
     width: 55px;
@@ -56,14 +59,18 @@ a:hover {
     width: 70%;
 }
 
+.dropdown-item{
+    color: black !important;
+}
+
 .btn {
     background-color: #C271FF !important;
     font-size: 0.7rem;
 }
 
 .bg-btn {
-    border: 1 solid white;
-    background-color: #8519d857 !important;
+   opacity: 0.6;
+    background-color: #8519d84f !important;
 }
 
 .btn:hover, .btn:active {
@@ -125,6 +132,15 @@ a:hover {
 .width-btn {
     width: 150px;
 }
+ .dropdown-toggle::after {
+    float: right;
+    margin-top: 0.45rem;
+}
+
+
+.selected{
+    float: left;
+}
 
 [class^="holberton_school-icon-ic"] {
     color: white !important;
@@ -134,6 +150,10 @@ a:hover {
 .holberton_school-icon-check {
     font-size: 2rem;
     color: #82D24F !important;
+}
+
+holberton_school-icon-search_2 {
+    font-size: 25px;
 }
 
 @media only screen and (max-width: 575px) {
