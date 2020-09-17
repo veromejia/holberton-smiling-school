@@ -56,6 +56,10 @@ a:hover {
     background-color: #C271FF !important;
     font-size: 0.7rem;
 }
+.bg-btn{
+    border: 1 solid white;
+    background-color: #8519d857 !important;
+} 
 
 .btn:hover, .btn:active {
     color: white !important;
